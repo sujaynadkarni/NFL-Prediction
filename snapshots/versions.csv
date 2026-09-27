@@ -1,0 +1,4 @@
+run_date,version,features,valid_brier,test_brier,test_acc,test_mae,brier_2026,games_2026
+2026-09-21,v1 (live),elo_diff off_diff def_diff qb_diff home inj_off_diff,0.2201,0.2142,0.6485,9.98,0.2325,31
+2026-09-21,v2 (opp-adj + luck-adj),elo_diff off_diff def_diff qb_diff home inj_off_diff,0.2202,0.2149,0.6573,9.99,0.2316,31
+2026-09-21,v2b (+ QB split out),elo_diff off_x_diff def_diff qb_diff home inj_off_diff,0.22,0.2136,0.6626,9.94,0.2316,31

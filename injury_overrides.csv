@@ -1,0 +1,6 @@
+# Manual injury timelines from the news. These override the model's estimate.
+# team = abbreviation (SEA, MIN, ...); player = name exactly as on the injury report;
+# out_through_week = last week the player misses (use 18 for season-ending).
+# Example (remove the leading # to activate):
+# SEA,Sam Darnold,3,Team said 1-2 weeks
+team,player,out_through_week,note

@@ -1,0 +1,9 @@
+.venv/
+.DS_Store
+__pycache__/
+data/raw/
+data/processed/*.pkl
+data/processed/*.parquet
+NFL_2026_Predictions.html
+snapshots/*.html
+substack_post.md
